@@ -1,0 +1,10 @@
+# Project dependencies
+openai
+colorama
+
+pandas
+numpy
+markdown
+beautifulsoup4
+
+dspy-ai
